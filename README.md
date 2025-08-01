@@ -45,6 +45,4 @@ This project is inspired by Google Flights and features one-way flight ticket se
 
 ---
 
-**<p align="center">&#9786; Happy Coding! &#9997;</p>**
-
 <p>Aayush Goel</p>
